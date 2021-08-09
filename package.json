@@ -1,5 +1,6 @@
 {
   "name": "smooth",
+  "homepage": "https://cooksen.github.io/mywebpage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
